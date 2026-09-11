@@ -17,7 +17,7 @@ provider "azurerm" {
 
 # CHANGE THIS to your name, e.g. "stu1", "stu2", "stu3", "stu4"
 locals {
-  student_name = "stu1"
+  student_name = "sid007"
 }
 
 # Random suffix so the storage account name is guaranteed unique
